@@ -1,4 +1,4 @@
-# Yieshopao
+# AngelJane
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +63,7 @@
 <body>
 
   <div class="card">
-    <h1>Rizalina,<br>will you be my Valentine? 💖</h1>
+    <h1>Angel Jane,<br>will you be my Valentine? 💖</h1>
 
     <button id="yes">Yes 💕</button>
     <button id="no">No 🙈</button>
